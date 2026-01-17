@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.marketing.assistant",
+  "appName": "Marketing Support Pro",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
